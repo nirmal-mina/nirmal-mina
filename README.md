@@ -5,7 +5,7 @@
 - 🎓 Graduated in **Computer Science** from **IIT Delhi**  
 - 😊 Maths enthusiast, driven by the beauty of equations and their role in shaping a utopian world  
 - ❤️ Passionate about **politics, chess, walking, reading books, and music**  
-- 🖤 *“It’s her memory that brings me here.”*  
+
 
 ---
 
