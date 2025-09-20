@@ -21,6 +21,6 @@
 ---
 
 ### ⚡ Fun Facts  
-- ♟️ I enjoy deep strategy games like **chess**  
+- ♟️ I enjoy deep strategy games like **chess**  , **playing cards**  
 - 📚 Avid reader, always on the lookout for thought-provoking ideas  
 - 🎶 Music keeps me balanced and inspired  
