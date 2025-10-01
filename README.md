@@ -307,15 +307,16 @@ class NirmalMina:
 
 ### 🔢 More Mathematical Elegance
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\frac{d}{dx}\int_{a}^{x}f(t)dt=f(x)\quad\text{(Fundamental Theorem of Calculus)}" />
+$\frac{d}{dx}\int_{a}^{x}f(t)dt = f(x) \quad \text{(Fundamental Theorem of Calculus)}$
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial&space;t}\quad\text{(Faraday's Law)}" />
+$\nabla \times \vec{E} = -\frac{\partial \vec{B}}{\partial t} \quad \text{(Faraday's Law)}$
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\lim_{n\to\infty}\left(1&plus;\frac{1}{n}\right)^n=e\quad\text{(Definition of e)}" />
+$\lim_{n\to\infty}\left(1+\frac{1}{n}\right)^n = e \quad \text{(Definition of e)}$
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}\quad\text{(Riemann Zeta Function)}" />
+$\zeta(s) = \sum_{n=1}^{\infty}\frac{1}{n^s} \quad \text{(Riemann Zeta Function)}$
 
-<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\nabla^2\psi&plus;\frac{2m}{\hbar^2}(E-V)\psi=0\quad\text{(Schrödinger Equation)}" />
+$\nabla^2 \psi + \frac{2m}{\hbar^2}(E-V)\psi = 0 \quad \text{(Schrödinger Equation)}$
+
 
 *Equations that shape our reality and define the universe* ✨
 
