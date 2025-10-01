@@ -146,7 +146,7 @@ class NirmalMina:
 - 📍 Distance-based delivery charges & auto-generated receipts
 - 📊 Daily sales statistics & WhatsApp order notifications
 
-**📱 Tech Stack:** Flutter, AWS, Google Maps API, WhatsApp Business API, Barcode Integration,Payment Gateways, Deep Links Management, Automations 
+**📱 Tech Stack:** Flutter, AWS, Google Maps API, WhatsApp Business API, Barcode Integration, Payment Gateways, Deep Links Management, Automations 
 
 **💡 What I Learned:**
 - Two-sided marketplaces are exponentially harder
