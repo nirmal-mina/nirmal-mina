@@ -263,145 +263,61 @@ class NirmalMina:
 
 <div align="center">
 
-## 🧮 Mathematics & Equations - Where Beauty Meets Logic
+## 🧮 Mathematics & Equations
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
-### *"Mathematics is the language in which God has written the universe"* — Galileo Galilei
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ✨ The Most Beautiful Equations in Mathematics ✨
+### *"In mathematics, the art of proposing a question must be held of higher value than solving it."* — Georg Cantor
 
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
+
+**∑ Summation**
 <br/>
-
-**∑ Basel Problem**
-
-<img src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bcyan%7D%5Chuge%20%5Csum_%7Bn%3D1%7D%5E%7B%5Cinfty%7D%5Cfrac%7B1%7D%7Bn%5E2%7D%3D%5Cfrac%7B%5Cpi%5E2%7D%7B6%7D" />
-
-*Euler's Genius*
-
-<br/><br/>
+<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\sum_{n=1}^{\infty}\frac{1}{n^2}=\frac{\pi^2}{6}" />
+<br/>
+*Basel Problem - Euler's Genius*
 
 </td>
 <td align="center" width="33%">
+
+**∫ Integration**
 <br/>
-
-**∫ Gaussian Integral**
-
-<img src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bcyan%7D%5Chuge%20%5Cint_%7B-%5Cinfty%7D%5E%7B%5Cinfty%7De%5E%7B-x%5E2%7Ddx%3D%5Csqrt%7B%5Cpi%7D" />
-
-*Statistical Beauty*
-
-<br/><br/>
+<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\int_{-\infty}^{\infty}e^{-x^2}dx=\sqrt{\pi}" />
+<br/>
+*Gaussian Integral - Statistical Beauty*
 
 </td>
 <td align="center" width="33%">
+
+**∞ Infinity**
 <br/>
-
-**∞ Euler's Identity**
-
-<img src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bcyan%7D%5Chuge%20e%5E%7Bi%5Cpi%7D%2B1%3D0" />
-
-*Most Beautiful Equation*
-
-<br/><br/>
+<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}e^{i\pi}&plus;1=0" />
+<br/>
+*Euler's Identity - Most Beautiful*
 
 </td>
 </tr>
 </table>
-
----
 
 <div align="center">
 
 ### 🔢 More Mathematical Elegance
 
-</div>
+<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\frac{d}{dx}\int_{a}^{x}f(t)dt=f(x)\quad\text{(Fundamental Theorem of Calculus)}" />
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<br/>
+<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial&space;t}\quad\text{(Faraday's Law)}" />
 
-**Fundamental Theorem of Calculus**
+<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\lim_{n\to\infty}\left(1&plus;\frac{1}{n}\right)^n=e\quad\text{(Definition of e)}" />
 
-<img src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bcyan%7D%5CLarge%20%5Cfrac%7Bd%7D%7Bdx%7D%5Cint_%7Ba%7D%5E%7Bx%7Df(t)dt%3Df(x)" />
+<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}\quad\text{(Riemann Zeta Function)}" />
 
-*Connecting derivatives and integrals*
+<img src="https://latex.codecogs.com/svg.image?\large&space;\color{cyan}\nabla^2\psi&plus;\frac{2m}{\hbar^2}(E-V)\psi=0\quad\text{(Schrödinger Equation)}" />
 
-<br/><br/>
-
-</td>
-<td align="center" width="50%">
-<br/>
-
-**Definition of e**
-
-<img src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bcyan%7D%5CLarge%20%5Clim_%7Bn%5Cto%5Cinfty%7D%5Cleft(1%2B%5Cfrac%7B1%7D%7Bn%7D%5Cright)%5En%3De" />
-
-*The natural exponential constant*
-
-<br/><br/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<br/>
-
-**Faraday's Law**
-
-<img src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bcyan%7D%5CLarge%20%5Cnabla%5Ctimes%5Cvec%7BE%7D%3D-%5Cfrac%7B%5Cpartial%5Cvec%7BB%7D%7D%7B%5Cpartial%20t%7D" />
-
-*Electromagnetic induction*
-
-<br/><br/>
-
-</td>
-<td align="center" width="50%">
-<br/>
-
-**Riemann Zeta Function**
-
-<img src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bcyan%7D%5CLarge%20%5Czeta(s)%3D%5Csum_%7Bn%3D1%7D%5E%7B%5Cinfty%7D%5Cfrac%7B1%7D%7Bn%5Es%7D" />
-
-*The $1M Millennium Prize Problem*
-
-<br/><br/>
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<br/>
-
-**Schrödinger Equation**
-
-<img src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bcyan%7D%5CLarge%20%5Cnabla%5E2%5Cpsi%2B%5Cfrac%7B2m%7D%7B%5Chbar%5E2%7D(E-V)%5Cpsi%3D0" />
-
-*Foundation of Quantum Mechanics*
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-*These equations shape our reality and define the universe* ✨
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+*Equations that shape our reality and define the universe* ✨
 
 </div>
 
